@@ -8,7 +8,7 @@ And no, **I am not looking for work**. Stop sending me emails for the love of go
 
 ### 🎉 Current Projects
 
-* ⭐ **[Sodalite](https://github.com/electricduck/sodalite)** ([OSTree](https://github.com/topics/ostree)): 🪨 A Pantheon experience for Fedora Silverblue
+* **⭐ [Sodalite](https://github.com/electricduck/sodalite)** ([OSTree](https://github.com/topics/ostree)): 🪨 A Pantheon experience for Fedora Silverblue
 * **[powic](https://github.com/electricduck/powic)** ([PowerShell](https://github.com/topics/powershell)): 📦 PowerShell-in-a-Container: a simple wrapper for PowerShell in Podman
 
 _Projects marked with a ⭐ have 10+ stars, a sign people find it (hopefully) useful or interesting._
